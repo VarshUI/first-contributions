@@ -66,6 +66,7 @@ Pereira
 - [Ayodeji Adesegun](https://github.com/ayodejiades)
 - [Jasper Zhuang](https://github.com/Jun-wei136/)
 - [faiza liyaqat](https://github.com/faizaliyaqat)
+- [U Harshitha](https://github.com/U-Harshitha)
 - [Likheet Shetty](https://github.com/Likheet)
 - [Wiafe Boakye Eddie](https://github.com/xs-eddie)
 - [Marcelo Muszalski] (https://github.com/marcelomusza)
@@ -1175,6 +1176,7 @@ Jasmine
 - [Albert Byrone](https://github.com/Albert-Byrone)
 - [zurfjereluhmie](https://github.com/zurfjereluhmie)
 - [Samuel Rudqvist](https://github.com/srudqvist)
+- [Harshit Thakur]
 -[Jakob Martin] (https://github.com/jakobistjakob)
 [Tharanishwaran] (https://github.com/Tharanishwaran)
 [shaozhe shan](https://github.com/weepingguitar)
@@ -1770,6 +1772,7 @@ Dante Sanchez
 - [Dibya Shakti Panda](https://github.com/Dibyas98)
 - [Navin P](https://github.com/mep1tz)
 - [Jacob S](https://github.com/JacobSletten)
+- [Sebastien Jacquemart](https://github.com/sebastienjacquemart-AI)
 - [Gerges Badr](https://github.com/GergesBadr)
 - [Shubham Kumar] (https://github.com/shubh1777)
 - [Amol Pardeshi](https://gi thub.com/AmolPardeshi99) -[Rhitika Pal Adhikari](https://github.com/PalRhitika)
